@@ -1,0 +1,35 @@
+#homebg{
+    background-image: url(PP10.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: none;
+}
+
+
+#aboutbg{
+    background-image: url(aa12.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: none;
+}
+
+#contactbg{
+    background-image: url(cc10.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: none;
+}
+
+#gallerybg{
+    background-image: url(j1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: none;
+}
+
+#portfoliobg{
+    background-image: url(bb10.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: none;
+}
